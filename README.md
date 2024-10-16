@@ -1,1 +1,1 @@
-This is a Repository that contains different components of bootstrap.
+This is a Repository that demonstrates different components of bootstrap.
